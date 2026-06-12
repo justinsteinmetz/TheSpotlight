@@ -26,13 +26,13 @@ The operating concept throughout is the **spotlight**: emphasis doesn't change t
 2. **The reveal** — *Same facts. Different weapon.*
 3. **The defence — clefts** (5 min) — A flat report (*Liam sent the photo to the class group yesterday*) is cut open and the spotlight cycles across it: the person, the timing, the content. Then the defensive cleft (*It wasn't me who...*), then a 60-second pair task deflecting a direct accusation.
 4. **The counterpunch — emphatic auxiliaries** (4 min) — The structure students will actually use by Friday. Mechanism, then rapid-fire pairs: A accuses, B counterpunches, swap. The drill targets prosody — the stress on the auxiliary matters more than the rule.
-5. **The closing speech — inversion** (3 min) — Receptive, not productive, by design. The prime-minister before/after, then the retrieval hook: students already produce inversion every time they play *Never have I ever*. The game is the grammar.
+5. **The closing speech — inversion** (3 min) — Receptive, not productive, by design. The prime-minister before/after, then the retrieval hook: the trailer voice. Students have heard *Never before has the world seen anything like it* in every epic trailer, even if they've never produced the structure. The production task is choral and theatrical — say it aloud in the deepest voice you own — which drills the word order and teaches the register simultaneously.
 6. **The trial** (4 min) — The class believes you ruined the group project. The truth: Marek deleted the file, after you went home. Build a defence using one cleft and one counterpunch; closing speech for bonus. The model answer demonstrates *sequencing* — three weapons arranged into one argument, flourish saved for last.
 7. **The verdict** (1 min) — *The spotlight doesn't change the facts. It changes what people notice.* Exit ticket: invent an accusation, defend yourself in one sentence.
 
 ## Why the structures are ordered this way
 
-The sequence follows the production gradient for this level, not the textbook order. Clefts and emphatic auxiliaries are productive targets; inversion is a recognition target with one already-owned frame (*Never have I ever*). Giving inversion the most oxygen — the usual approach — teaches the structure students are least likely to ever use. Here it gets the least teaching time and the most memorable hook.
+The sequence follows the production gradient for this level, not the textbook order. Clefts and emphatic auxiliaries are productive targets; inversion is a recognition target anchored to a register students already know intimately — the trailer voice. Giving inversion the most oxygen — the usual approach — teaches the structure students are least likely to ever use. Here it gets the least teaching time and the most memorable hook.
 
 ## Where this sits
 
